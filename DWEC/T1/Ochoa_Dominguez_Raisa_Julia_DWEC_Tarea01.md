@@ -28,11 +28,11 @@ Utilizando las herramientas de desarrollo de tu navegador realiza las siguientes
 
    **FilmAffinity antes del cambio:**
 
-   <center><img src="2-1.png" width="70%" alt="react"/></center>
+   <center><img src="img/2-1.png" width="70%" alt="react"/></center>
 
    **FilmAffinity después del cambio:**
 
-   <center><img src="2-2.png" width="70%" alt="react"/></center>
+   <center><img src="img/2-2.png" width="70%" alt="react"/></center>
 
    **Líneas cambiadas:**
 
@@ -124,3 +124,8 @@ Utilizando las herramientas de desarrollo de tu navegador realiza las siguientes
 
 4. **Sincroniza tu proyecto "Hola mundo" con un repositorio con tu github (https://github.com/) y publica la página (https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site).**
 
+    Para esta parte de la actividad le adjunto el enlace pertinente a mi repositorio, en concreto el enlace web para esta parte de la tarea, así como al documento .md (que podrá visualizar sin problemas desde VSCode, github o desde chrome con una extensión como Markdown Viewer) que contiene lo mismo que el pdf de la tarea, ya que acostumbro hacer este tipo de actividades en dicho formato.
+
+    - Repositorio: https://github.com/rjodomin22/dawonline
+    - Web hola mundo: https://rjodomin22.github.io/dawonline/DWEC/T1/index.html
+    - Resolución de la tarea formato .md : https://rjodomin22.github.io/dawonline/DWEC/T1/Ochoa_Dominguez_Raisa_Julia_DWEC_Tarea01.md
